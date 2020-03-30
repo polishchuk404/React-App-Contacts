@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-App-Contacts/static/css/main.5f361e03.chunk.css",
+    "main.js": "/React-App-Contacts/static/js/main.0b87a8a2.chunk.js",
+    "main.js.map": "/React-App-Contacts/static/js/main.0b87a8a2.chunk.js.map",
+    "runtime-main.js": "/React-App-Contacts/static/js/runtime-main.563ed1ea.js",
+    "runtime-main.js.map": "/React-App-Contacts/static/js/runtime-main.563ed1ea.js.map",
+    "static/js/2.7aa66136.chunk.js": "/React-App-Contacts/static/js/2.7aa66136.chunk.js",
+    "static/js/2.7aa66136.chunk.js.map": "/React-App-Contacts/static/js/2.7aa66136.chunk.js.map",
+    "index.html": "/React-App-Contacts/index.html",
+    "precache-manifest.47e2dd9807ef27ce9519287ad2ce0f34.js": "/React-App-Contacts/precache-manifest.47e2dd9807ef27ce9519287ad2ce0f34.js",
+    "service-worker.js": "/React-App-Contacts/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/React-App-Contacts/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7aa66136.chunk.js.LICENSE.txt": "/React-App-Contacts/static/js/2.7aa66136.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/React-App-Contacts/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.563ed1ea.js",
+    "static/js/2.7aa66136.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.0b87a8a2.chunk.js"
+  ]
+}
