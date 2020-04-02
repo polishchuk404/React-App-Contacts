@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/React-App-Contacts/static/css/main.5f361e03.chunk.css",
-    "main.js": "/React-App-Contacts/static/js/main.0b87a8a2.chunk.js",
-    "main.js.map": "/React-App-Contacts/static/js/main.0b87a8a2.chunk.js.map",
+    "main.css": "/React-App-Contacts/static/css/main.2dad0f03.chunk.css",
+    "main.js": "/React-App-Contacts/static/js/main.f782d7de.chunk.js",
+    "main.js.map": "/React-App-Contacts/static/js/main.f782d7de.chunk.js.map",
     "runtime-main.js": "/React-App-Contacts/static/js/runtime-main.563ed1ea.js",
     "runtime-main.js.map": "/React-App-Contacts/static/js/runtime-main.563ed1ea.js.map",
-    "static/js/2.7aa66136.chunk.js": "/React-App-Contacts/static/js/2.7aa66136.chunk.js",
-    "static/js/2.7aa66136.chunk.js.map": "/React-App-Contacts/static/js/2.7aa66136.chunk.js.map",
+    "static/css/2.de424728.chunk.css": "/React-App-Contacts/static/css/2.de424728.chunk.css",
+    "static/js/2.89241d2d.chunk.js": "/React-App-Contacts/static/js/2.89241d2d.chunk.js",
+    "static/js/2.89241d2d.chunk.js.map": "/React-App-Contacts/static/js/2.89241d2d.chunk.js.map",
     "index.html": "/React-App-Contacts/index.html",
-    "precache-manifest.47e2dd9807ef27ce9519287ad2ce0f34.js": "/React-App-Contacts/precache-manifest.47e2dd9807ef27ce9519287ad2ce0f34.js",
+    "precache-manifest.fa0c37dc5d36a0325015e231866a477a.js": "/React-App-Contacts/precache-manifest.fa0c37dc5d36a0325015e231866a477a.js",
     "service-worker.js": "/React-App-Contacts/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/React-App-Contacts/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.7aa66136.chunk.js.LICENSE.txt": "/React-App-Contacts/static/js/2.7aa66136.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/React-App-Contacts/static/media/logo.5d5d9eef.svg"
+    "static/css/2.de424728.chunk.css.map": "/React-App-Contacts/static/css/2.de424728.chunk.css.map",
+    "static/css/main.2dad0f03.chunk.css.map": "/React-App-Contacts/static/css/main.2dad0f03.chunk.css.map",
+    "static/js/2.89241d2d.chunk.js.LICENSE.txt": "/React-App-Contacts/static/js/2.89241d2d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.563ed1ea.js",
-    "static/js/2.7aa66136.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.0b87a8a2.chunk.js"
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.89241d2d.chunk.js",
+    "static/css/main.2dad0f03.chunk.css",
+    "static/js/main.f782d7de.chunk.js"
   ]
 }
