@@ -64,7 +64,7 @@ class Contacts extends Component {
                   ) && (
                     contact.gender ? (female && contact.gender === "female") || (male && contact.gender === "male") : unknown
                   ))
-              .map(contact => <Contact key={contact.lastName} contact={contact} /> )
+              .map(contact => <Contact key={contact.lastName} contact={contact} />)
             }
             </div>
         </div>
