@@ -56,18 +56,16 @@ class Contacts extends Component {
               </div>
             </form>
             {contacts
-              .filter(
-                contact =>
-                  (!search ||
+              .filter(contact => (
+                    !search ||
                     contact.lastName.toLowerCase().includes(search) ||
                     contact.firstName.toLowerCase().includes(search) ||
-                    contact.phone.includes(search)) &&
-                    (contact.gender  ? (female && contact.gender === "female") ||
-                      (male && contact.gender === "male")  : unknown)
-              )
-              .map(contact => (
-                <Contact key={contact.lastName} contact={contact} />
-              ))}
+                    contact.phone.includes(search)
+                  ) && (
+                    contact.gender ? (female && contact.gender === "female") || (male && contact.gender === "male") : unknown
+                  ))
+              .map(contact => <Contact key={contact.lastName} contact={contact} /> )
+            }
             </div>
         </div>
       </div>
