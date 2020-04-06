@@ -58,8 +58,8 @@ class Contacts extends Component {
             {contacts
               .filter(contact => (
                     !search ||
-                    contact.lastName.toLowerCase().includes(search) ||
-                    contact.firstName.toLowerCase().includes(search) ||
+                    contact.lastName.toLowerCase().includes(search.toLowerCase()) ||
+                    contact.firstName.toLowerCase().includes(search.toLowerCase()) ||
                     contact.phone.includes(search)
                   ) && (
                     contact.gender ? (female && contact.gender === "female") || (male && contact.gender === "male") : unknown
